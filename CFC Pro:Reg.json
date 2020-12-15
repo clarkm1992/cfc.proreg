@@ -514,7 +514,7 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "90",
+      "confPrestige" : "95",
       "confName" : "SEC"
     },
     {
@@ -565,7 +565,7 @@
             "ratTalent" : "75",
             "baselinePrestige" : "95",
             "name" : "Ryan Day",
-            "contractYear" : "2"
+            "contractYear" : "1"
           },
           "name" : "Ohio State Buckeyes",
           "state" : "Ohio"
@@ -1031,7 +1031,7 @@
         }
       ],
       "confFullName" : "Big Ten Conference",
-      "confPrestige" : "91",
+      "confPrestige" : "95",
       "confName" : "B1G"
     },
     {
